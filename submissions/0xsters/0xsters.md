@@ -2,7 +2,10 @@
 
 ### Personal information
 
-- github account: https://github.com/0xsters
+- github account: https://github.com/0xstersgit add .
+git commit -m "fill any"
+git push origin main
+
 - Email: isaldq@gmail.com
 - Arweave Address: I6F7Lj1XVlwQETfHGwyTgjNrJhHzlPa0TAZ_RQavYmA
 - ETH Address: 0x11B9dd6d3129Eb740011b1A948aDCbCB67758a10
